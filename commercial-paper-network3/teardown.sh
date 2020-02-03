@@ -1,4 +1,4 @@
-# Ask user for confirmation to proceed
+# Ask user for confirmation to proceed. 
 function askProceed() {
   echo "========================== Warning =============================="
   echo "This script will stop and remove all locally running containers, "
